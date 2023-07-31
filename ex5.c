@@ -5,7 +5,7 @@ int main(){
 	scanf("%d",&a);
 	printf("digite outro numero inteiro: ");
 	scanf("%d",&b);
-	printf("digite outro número inteiro: ");
+	printf("digite outro numero inteiro: ");
 	scanf("%d",&c);
 	d = a + b + c;
 	printf("A soma dos tres numeros e %d",d);
